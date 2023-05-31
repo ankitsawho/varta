@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510227074278",
+    "project_id": "varts-808dd",
+    "storage_bucket": "varts-808dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510227074278:android:51e8edce3f98f0c65a7f27",
+        "android_client_info": {
+          "package_name": "com.sawho.basics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510227074278-u6pbodgb7u1b2bk8rkd7u73mn5g6qs6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCs2RLQ0D0jOAfuZXIYeNs06F6WLH7OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510227074278-u6pbodgb7u1b2bk8rkd7u73mn5g6qs6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
